@@ -1,6 +1,10 @@
 # PathVisualizer
 An A* Path Finding Visualizer using Pygame
 
+## Demo
+![alt-text](demo.gif)
+
+## Development
 You need to only install pygame locally
 
 Go to terminal and run
@@ -25,5 +29,6 @@ Our Visualizer Window will open,
 
 4. Now click Spacebar to start the visualizer in action
 
+# License
+MIT License 2021 (c) [Nilesh Das](LICENSE)
 
-Some Cool Demo :
